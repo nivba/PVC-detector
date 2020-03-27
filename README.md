@@ -4,7 +4,8 @@ PVC detection, using KNN applied to features extracted from one-lead ECG Signal.
 
 you can run the project easily from 'main.m' file with MATLAB 2020. Note that the database and program folders should have the same path.
 
-Graphs are avirable  
+Graphs are avirable in the repository Wiki.
+#
 Steps: 
 1) preprocessing.
 2) bit detection (QRS detection).
